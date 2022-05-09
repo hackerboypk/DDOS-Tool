@@ -18,15 +18,15 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet Attack Starting")
 print "Ready TO DDOS MAXXCLOUD ?"
-print "20 Sekunden Attacke wird Vorbereitet"
+print "20 seconds attack is prepared"
 time.sleep(20)
 print "100%"
 time.sleep(2)
-print "Drei"
+print "ONE"
 time.sleep(1)
-print "Zwei"
+print "TWO"
 time.sleep(1)
-print "Eins"
+print "THREE"
 time.sleep(1)
 print "Bomb has been Planted //Never use MAXXCLOUD !!!"
 time.sleep(3)
